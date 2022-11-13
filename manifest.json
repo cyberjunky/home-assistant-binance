@@ -1,0 +1,13 @@
+{
+  "domain": "binance",
+  "name": "Binance",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/binance",
+  "requirements": [
+    "python-binance==1.0.10"
+  ],
+  "codeowners": [
+    "@DevSecNinja"
+  ],
+  "iot_class": "cloud_polling"
+}
